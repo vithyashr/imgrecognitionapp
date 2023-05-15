@@ -1,0 +1,36 @@
+#div1{
+
+    font-family: 'Wallpoet', cursive;
+    color:#ff9900;
+   background-color:#2c4e58;
+   border: 3mm ridge rgba(255, 255, 255, 0.6);
+   margin-top: 20px;
+   text-align:center;
+   border-radius: 10px;
+    
+}
+#main_div{
+     background-color: #ff9900;
+   color:#2c4e58 ; 
+   border-radius: 50px;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   letter-spacing: 3px;
+   font-weight: bolder;
+   border: 3mm ridge rgba(255, 255, 255, 0.6);
+}
+
+#camera{
+
+    border:2px dashed rgb(255, 255, 255);
+    width: 350;
+    height:300;
+}
+
+
+#result{
+
+    border:2px dashed rgb(255, 255, 255);
+    width: 370;
+    height:310;
+
+}
